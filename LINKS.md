@@ -1,4 +1,4 @@
-# Intro to building your website
+# Beginner building your website
 - https://fonts.google.com/
 - https://developer.mozilla.org/en-US/docs/Web/HTML
 - https://developer.mozilla.org/en-US/docs/Web/CSS
