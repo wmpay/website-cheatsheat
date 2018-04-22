@@ -3,6 +3,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/HTML
 - https://developer.mozilla.org/en-US/docs/Web/CSS
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://developer.mozilla.org/en-US/docs/Web/SVG
 
 # Advanced building your website
 - https://getbootstrap.com/docs/4.1/layout/overview/
@@ -14,6 +15,7 @@
 - https://d3js.org/
 - https://github.com/toddmotto/public-apis
 - http://leafletjs.com/
+- https://catalog.data.gov/
 
 # Server Setup
 - https://domains.google/
